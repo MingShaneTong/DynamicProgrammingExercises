@@ -15,22 +15,12 @@ Each dynamic programming problem typically has its own dedicated directory. Insi
   * **Test Cases:** Examples to verify the correctness of the solution.
   * **Explanation (Optional):** Sometimes, I might include notes or a brief explanation of my thought process or the DP state definition.
 
-<!-- 
 ## Problems Tackled (So Far)
 
 Here's a list of some of the dynamic programming problems I've worked on, along with the directory where you can find them:
 
-  * **Fibonacci Sequence** (`fibonacci/`)
-  * **Grid Traveler** (`grid_traveler/`)
-  * **Can Sum** (`can_sum/`)
-  * **How Sum** (`how_sum/`)
-  * **Best Sum** (`best_sum/`)
-  * **Can Construct** (`can_construct/`)
-  * **Count Construct** (`count_construct/`)
-  * **All Construct** (`all_construct/`)
-  * **Longest Common Subsequence (LCS)** (`longest_common_subsequence/`)
-  * **Knapsack Problem (0/1)** (`knapsack_01/`) 
--->
+  * **Knapsack Problem (0/1)** (`knapsack/`) 
+  * **Longest Common Subsequence (LCS)** (`longestcommonsubsequence/`)
 
 ## How to Run Solutions
 
