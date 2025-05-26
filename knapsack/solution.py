@@ -1,7 +1,7 @@
 import numpy as np
 from numpy.typing import ArrayLike
 from typing import List
-from helper import Item
+from .helper import Item
 
 def solution(capacity: int, items: List[Item]) -> List[Item]:
     sorted_items: List[Item] = sorted(items, key=lambda item: item.weight)

@@ -1,6 +1,6 @@
 import unittest
-from solution import solution
-from helper import Item
+from .solution import solution
+from .helper import Item
 
 class TestSolution(unittest.TestCase):
     def test(self):
