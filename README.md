@@ -19,8 +19,9 @@ Each dynamic programming problem typically has its own dedicated directory. Insi
 
 Here's a list of some of the dynamic programming problems I've worked on, along with the directory where you can find them:
 
-  * **Knapsack Problem (0/1)** (`knapsack/`) 
-  * **Longest Common Subsequence (LCS)** (`longestcommonsubsequence/`)
+  * [**Knapsack Problem (0/1)**](knapsack/) 
+  * [**Longest Common Subsequence (LCS)**](longestcommonsubsequence/)
+  * [**Minimum Edit Distance (MED)**](minimumeditdistance/)
 
 ## How to Run Solutions
 
