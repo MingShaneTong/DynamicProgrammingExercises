@@ -22,6 +22,7 @@ Here's a list of some of the dynamic programming problems I've worked on, along 
   * [**Knapsack Problem (0/1)**](knapsack/) 
   * [**Longest Common Subsequence (LCS)**](longestcommonsubsequence/)
   * [**Minimum Edit Distance (MED)**](minimumeditdistance/)
+  * [**Subset Sum**](subsetsum/)
 
 ## How to Run Solutions
 
